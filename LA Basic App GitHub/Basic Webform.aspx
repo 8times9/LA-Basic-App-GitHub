@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
         <div>
             <% LA_Basic_App_GitHub.Class1 tp = new LA_Basic_App_GitHub.Class1(); %>
-
+            <h1>test</h1>
             <%=tp.Name%>
         </div>
     </form>
